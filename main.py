@@ -3,7 +3,7 @@ import os
 import pyttsx3
 from wikipedia import languages
 import webbrowser
-#import openai
+import openai
 import datetime
 
 
