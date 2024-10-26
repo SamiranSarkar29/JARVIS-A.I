@@ -1,2 +1,2 @@
 # JARVIS-A.I 
-A Python-powered AI assistant that converses, browses websites, controls music playback, and more, offering a personalized and interactive user experience.
+Jarvis: An AI-powered virtual assistant built with Python, leveraging speech recognition and OpenAI's API, enabling voice-activated web browsing, music control, camera access, text generation, and file creation.
